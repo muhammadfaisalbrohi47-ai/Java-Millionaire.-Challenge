@@ -103,7 +103,9 @@ The objective of this project is to gain practical experience in Java programmin
 
 ## 👨‍💻 Author
 
-**Your Name:** Muhammad Faisal
+**Your Name:** Muhammad Faisal and Suneel Kumar.
+
+**Roll No#:** 2k26/CSM/146 and 2k26/CSM/125
 
 **Department:** Computer Science
 
